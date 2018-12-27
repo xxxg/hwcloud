@@ -1,0 +1,21 @@
+name: test
+server:
+  port: 8888
+eureka:
+  client:
+    serviceUrl: 
+      defaultZone: http://localhost:8761/eureka/
+spring:
+  application:
+    name: config-server
+  profiles:
+    active: subversion
+  cloud:
+    config:
+      server:
+        svn:
+          uri: https://192.168.0.104/svn/yqhwspringcloud/
+          username: xg
+          password: 123456
+          #default-label: trunk
+          #basedir: /data
