@@ -1,7 +1,7 @@
 server:
     port: 9999
 name:
-    dev
+    '{cipher}AQBFWhwnksxfs8Fm5QegTBYAcH79P4w/t9BJhky6IkYC+cbjcw7BGwAiG9uJl1RzKNiH1+5mBPts/JPPy4uCBPdh8LuxNUYHa3RmmnYeC5r1myA1e71XrfIBye3GID6YOweIg8F58s9vpylZCxnan6sW7XCGTg7ArhCp3ALNfO7DaCoa3JW01rZaXMfmi45huby/1i8M2etorVaEI5nh1gZB4oVXl63PUPhgAZRr3F+ty1fgM5opO4B33fwx4GjovTnJk0DaphO2JEc32psOISJ8i4D1PMwA5wMFcdkuAQ4CGo2l+CnDbOhaewdQt8i2lhpvjuzysNKbaVeIw+z4vL9VH2bc+bVxnNMzRU+rS9SEbfymkFitSrVbrqydaL+IZqU='
 #zuul:
     #routes:
         #service-a:
