@@ -1,5 +1,5 @@
 server:
-    port: 9999
+    port: 9001
 name:
     '{cipher}AQBmFlWJ/SZDja9W7HbFb7LsTCYe0cjNopFOQvqrWcYuwcpVBPQsmhg3yRzhA55Jrk5/MkeH4QyWzYtAT0Hif3zE1TlPvOMNUkZEkqjtzctXPWImygCbWcyj8hNwxKIqPtW/+XeD5A19erlqdXNC7nmDBrKGXzgs97Jhmpa2g4d3KjlCkb7Z/dv5cme8CcIQPcLYUI6rq4tlRfFdClF2M5lWGGSAqVt1ssYFVGxyHeH9CWhnrTjb1Kxb57NbDkfWFrhYyCrPyHhErD8f9CbghCXzg3bVDRXeK1dsePguM+QgcW1t35M6575gx9yxdFFiCGEA4iNDW8FwpRmzJfK3aWYfKDE/6TcJdnhkp9+QwqY9kDIRndaQW0ehvZT2PR1HLak='
 #zuul:
