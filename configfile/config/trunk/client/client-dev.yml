@@ -1,7 +1,7 @@
 server:
     port: 9999
 name:
-    '{cipher}AQAUOJ5Gna6UGfxd/r5s/xPVNY0WUCrlXwKzLslpWnFMkRRVLVIPTagqjs/bdKmK21/pkwRwVpsvQa+LafOsY7T0oEVDK/TenzyAb3zbRFeyBH9BinamZHAXPWBB9OsACVoEHSfFGvzjlW6PTO4BP6qdsrTp4oaYN8ZUsotr3SCVfhAIUfXUI1g7YQzwXK42KfZ+Oy14oZvwOxuSPgkm42SMUB5JR1nWu+1x/b1JkPHZN+R1uw3GETqq+r6MHIL1XuBwRo/caYiZdGUVobipAVM8psZbnWwXpxfPe33xqdwBiGScmd5XUUhW0jSmgxgVESUeuRlcbGSuNMT+A5hi1U/0+lMojEP4vEfD8UveLAYU7wHA91T4F7jiBmHAB6FTrDM='
+    '{cipher}AQBmFlWJ/SZDja9W7HbFb7LsTCYe0cjNopFOQvqrWcYuwcpVBPQsmhg3yRzhA55Jrk5/MkeH4QyWzYtAT0Hif3zE1TlPvOMNUkZEkqjtzctXPWImygCbWcyj8hNwxKIqPtW/+XeD5A19erlqdXNC7nmDBrKGXzgs97Jhmpa2g4d3KjlCkb7Z/dv5cme8CcIQPcLYUI6rq4tlRfFdClF2M5lWGGSAqVt1ssYFVGxyHeH9CWhnrTjb1Kxb57NbDkfWFrhYyCrPyHhErD8f9CbghCXzg3bVDRXeK1dsePguM+QgcW1t35M6575gx9yxdFFiCGEA4iNDW8FwpRmzJfK3aWYfKDE/6TcJdnhkp9+QwqY9kDIRndaQW0ehvZT2PR1HLak='
 #zuul:
     #routes:
         #service-a:
