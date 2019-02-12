@@ -1,0 +1,9 @@
+server:
+    port: 9999
+name:
+    dev
+#zuul:
+    #routes:
+        #service-a:
+         #   path: /service-ssdev/**
+          #  serviceId: hello.service-a
