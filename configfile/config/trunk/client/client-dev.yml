@@ -1,7 +1,7 @@
 server:
     port: 9001
 name:
-    '{cipher}AQBgcin8kNeyc+1UpQ4xOfUXgTjfvT7eZ2G1yxphThtHIOhnyRm3XeUCbejoi70x0BW+CYpvoqNjKzFPCr5b834BdBp5G+Tif2o1z++c6SKwvaAovIDQZjPw8Ze+eIDweykfTHODy0t7Sd19cexe3IkVxfgFtsTsAbkfu5pax2Is73b1pbTgUIKEMkSCo6PRHe3DfDWuXic3zsb+d5auUdNOZn4wpEGZlb2oPm0g1Rscb5cWS2MY0dsWNB9YTP4DnHTQBV6IZS64y3Gs+wev/ZhRS7LjHuFBazauwfkpb7pJxjS7t/4e25jEw82EoiF9i9+jaFDcBDDpR0wnviAQXIxBOGgaMQImAqVdsTPNHbW6+SAooZ3r+IECauvmIwqPS1I='
+    '{cipher}AQCYQUorbimqWpTEo8/TqWZvCwCuyHr61p8CdUHGVZVp51SY4rNUC/DoFGMellAcD3ahAd4ca4jQkzFd+Bb597CkvOE7/sHhQJw2kFPEs6QSZv/TPI/GVaD+hVDIWFU78k8o1ZCfXfoLWV3JiVjz9CsfZS2yF5Xu/hyoA659ODIHmceajui9QbNlIf4Y7kZTWQE9h+LWfUYMW5s/dJLysLqe6WfT8Hsce6bxwQabKgTZsnalCWXDdq3aeByyGw9k4H3Lu6BjWOsk2kcVNOX+sYvvW5L/AH4qUqydcBP4+ZnWbMhrrJi2d/SlifUozlkDjxdJp3cJTM+/73oqvO6frKXG06XVGgiAG4Gqu2J4s8SvLsQ1WFho3/PVqQpGEhbgwXs='
 #zuul:
     #routes:
         #service-a:
