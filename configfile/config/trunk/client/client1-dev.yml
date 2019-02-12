@@ -1,0 +1,10 @@
+server:
+    port: 9002
+name:
+    '{cipher}AQADfukxYUS/eTMudW2HVWx+be93rATz9D8sIwdFVq8iLKOoDzWqQAcg9z7Uq6EyBmM8VVqvu8Jvb7GXI4JZRrFp4h45SzlKvdQ0nICt2BO1faOf0oidKGx5TlMRtVUGrHz+0ivLyIU4u94ENBnS+rjyS+CjmqghO0xCBVpLSZVtPfySnDVQol73AvBOA0eM/Ye3IjDAX8kDwGaUzdcsQx6i/wf6AEgY4xtI9PBV6jECtmqo0+ZfGAInIm8i39sPA93TiKxPbi5dq0vAZnALoj3v+9zu3AOvapz50tQDD+OzIHt7/PFLQgGTFEgZJ5QF9U8HqrxzBL/XgcWtNDyCx8MXEt4JECsAJJi3ltl6PHAZopmVgzky1w3HURpta/IOJ3A='
+    
+#zuul:
+    #routes:
+        #service-a:
+         #   path: /service-ssdev/**
+          #  serviceId: hello.service-a
