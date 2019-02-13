@@ -1,0 +1,13 @@
+server:
+    port: 9999
+name:
+    '{cipher}AQBi75L/jPtGNSz4oIuGkrq4/rw6D9SxED1sBqxLIl6T6OSqqujjsWfsEhjpr4bNN5nh7d0ofXUoL2Xr5fPe1sJipKb4RYoLXd04E2PboGcie0G4/I3qJNabGVZnO3VCFY/tOmkkSjhbgoimCg4HhsNGWrw0yB4B76qgGy40fg+IF1cKOJm9/BSX7Qe31LCfFkPPp2TKJm0BOxxmaym/AImtAG+r3bG4Q7mAjGzoE6Ie3Ac4ki/uxZV1dX7IspV/HVsFliiEG+Z5ok0gFsWg8SXM4HFSE7637pORW838luj0nJzwdAxL5nCtvZIsvlp2eE21b+Yj64p4/G7i+tmEi7jnsfxrmKg5zvRgGlWSGi5ecl2ceGw7DxpkTBYrsL1gG+4='
+spring:
+    cloud:
+        gateway:
+            
+#zuul:
+    #routes:
+        #service-a:
+         #   path: /service-ssdev/**
+          #  serviceId: hello.service-a
