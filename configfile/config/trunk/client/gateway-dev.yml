@@ -5,6 +5,10 @@ name:
 spring:
     cloud:
         gateway:
+            discovery:
+                locator:
+                    enabled: true
+                    lowerCaseServiceId: true
             
 #zuul:
     #routes:
